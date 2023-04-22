@@ -1,0 +1,36 @@
+[submodule "C01/C01_0"]
+	path = C01/C01_0
+	url = https://github.com/ahlee13777/La_Piscine.git
+[submodule "C01/La_Piscine"]
+	path = C01/La_Piscine
+	url = https://github.com/ahlee13777/La_Piscine.git
+[submodule "C02/La_Piscine"]
+	path = C02/La_Piscine
+	url = https://github.com/ahlee13777/La_Piscine.git
+[submodule "C03/La_Piscine"]
+	path = C03/La_Piscine
+	url = https://github.com/ahlee13777/La_Piscine.git
+[submodule "C04/La_Piscine"]
+	path = C04/La_Piscine
+	url = https://github.com/ahlee13777/La_Piscine.git
+[submodule "C05/La_Piscine"]
+	path = C05/La_Piscine
+	url = https://github.com/ahlee13777/La_Piscine.git
+[submodule "C06/La_Piscine"]
+	path = C06/La_Piscine
+	url = https://github.com/ahlee13777/La_Piscine.git
+[submodule "C07/La_Piscine"]
+	path = C07/La_Piscine
+	url = https://github.com/ahlee13777/La_Piscine.git
+[submodule "C08/La_Piscine"]
+	path = C08/La_Piscine
+	url = https://github.com/ahlee13777/La_Piscine.git
+[submodule "C09/La_Piscine"]
+	path = C09/La_Piscine
+	url = https://github.com/ahlee13777/La_Piscine.git
+[submodule "C11/La_Piscine"]
+	path = C11/La_Piscine
+	url = https://github.com/ahlee13777/La_Piscine.git
+[submodule "C12/La_Piscine"]
+	path = C12/La_Piscine
+	url = https://github.com/ahlee13777/La_Piscine.git
